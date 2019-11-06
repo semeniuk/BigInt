@@ -1603,6 +1603,8 @@
         'rightShift_': rightShift_,
         'squareMod_': squareMod_,
         'subShift_': subShift_,
+        'subShift_': subShift_,
+        'bpe': bpe,
     };
 
 });
